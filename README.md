@@ -1,0 +1,2 @@
+# .github
+Special organisation repository
